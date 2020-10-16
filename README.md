@@ -1,0 +1,2 @@
+# kens-resolusi
+resolusi kens
